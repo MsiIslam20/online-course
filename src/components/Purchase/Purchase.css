@@ -1,0 +1,28 @@
+.cart{
+    background: #f9f9f9;
+    padding: 20px 0px;
+    padding-left: 10px;
+    height: 100%;
+}
+.cart h3{
+    color: #0c0533;
+    border-bottom: 1.3px solid #b9b9b9;
+    padding-bottom: 15px;
+}
+.cart h5{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.cart h4{
+    font-size: 20px;
+}
+.cart h4 span{
+    font-size: 24px;
+    color: #0c0533;
+    font-weight: 700;
+}
+.button{
+    text-align: center;
+    margin-top: 30px;
+}

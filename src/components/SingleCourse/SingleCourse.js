@@ -1,5 +1,7 @@
 import React from 'react';
 import bootstrap from '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPaperPlane } from '@fortawesome/free-solid-svg-icons';
 import './SingleCourse.css'
 
 
@@ -10,7 +12,7 @@ const SingleCourse = (props) => {
             <div className="col-md-4 pl-0">
                 <img className="img-fluid" src={image} alt=""/>
             </div>
-            <div className="col-md-8">
+            <div className="col-md-8 pr-5">
                 <h5>{title}</h5>
                 <p>{description}</p>
                 <div className="row">
@@ -25,7 +27,7 @@ const SingleCourse = (props) => {
                     </div>
                     <div className="col-md-4 text-right">
                         <h4>${price} </h4>
-                        <button className="btn btn-primary">Enroll Now</button>                        
+                        <button onClick={() => props.handlePurchase(props.course)} className="btn btn-primary">Enroll Now <FontAwesomeIcon icon={faPaperPlane} /> </button>                        
                     </div>
                 </div>
             </div>
