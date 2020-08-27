@@ -7,6 +7,9 @@ var others =
             "email": "ramsayacademy@yahoo.com",
             "description": "Learn Cognitive Behavioural Therapy (CBT) and how you can positively influence peoples emotional and mental well-being.",
             "rating": 4.5,
+            "level": "All",
+            "lecture": 362,
+            "hours": 10,            
             "address": {
               "street": "california",
               "city": "united kingdom",
@@ -29,6 +32,9 @@ var others =
             "email": "Crowhurst209@yahoo.com",
             "description": "Learn meditation for stress relief, mindfulness, anxiety & more! Includes 10 guided audios & Meditation Certificate",
             "rating": 4.6,
+            "level": "Master",
+            "lecture": 222,
+            "hours": 12,            
             "address": {
               "street": "california",
               "city": "united kingdom",
@@ -51,6 +57,9 @@ var others =
             "email": "fussell@gmail.com",
             "description": "A comprehensive video and ebook course designed for people wanting to learn the core concepts of drawing.",
             "rating": 4.5,
+            "level": "All",
+            "lecture": 55,
+            "hours": 2,            
             "address": {
               "street": "california",
               "city": "united kingdom",
@@ -73,6 +82,9 @@ var others =
             "email": "daniels2019@gmail.com",
             "description": "Drawing and Shading From Fundamentals to Photorealism",
             "rating": 4.7,
+            "level": "All",
+            "lecture": 121,
+            "hours": 11,            
             "address": {
               "street": "california",
               "city": "united kingdom",
@@ -95,6 +107,9 @@ var others =
             "email": "millerlawrence@gmail.com",
             "description": "Management Skills Certification in Developing People, Leading Teams & Process Improvement",
             "rating": 4.3,
+            "level": "All",
+            "lecture": 411,
+            "hours": 22,            
             "address": {
               "street": "california",
               "city": "united kingdom",
@@ -117,6 +132,9 @@ var others =
             "email": "robinhall2@gmail.com",
             "description": "Learn Piano in WEEKS not years. Play-By-Ear & learn to Read Music. Pop, Blues, Jazz, Ballads, Improvisation, Classical",
             "rating": 4.5,
+            "level": "Master",
+            "lecture": 112,
+            "hours": 112,
             "address": {
               "street": "dhaka",
               "city": "Bangladesh",

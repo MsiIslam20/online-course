@@ -1,3 +1,43 @@
+.main-area{
+    margin-bottom: 35px;
+    border-bottom: 1px solid #dcdacb;
+    padding-bottom: 20px;
+}
 .main-area img{
     border-radius: 5px;
+}
+.main-area h5{
+    font-size:  24px;
+}
+.main-area h6 span{
+    font-weight:400
+}
+.main-area h6 b{
+    font-size: 18px;
+    color: #be5a0e;
+}
+.main-area p{
+    color: #7e7e7e;
+    font-weight: 400;
+    font-size: 16px;
+}
+.main-area ul{
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.main-area h4{
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.main-area ul li{
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 8px;
+    margin-bottom: 0;
+    font-weight: 500;
+    color: #7e7e7e
+}
+.btn{
+    padding: 8px 20px;
+    font-weight: 600;
 }

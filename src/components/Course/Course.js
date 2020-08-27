@@ -10,13 +10,13 @@ const Course = () => {
     const [course, setCourse] = useState(showData)
 
     return (
-        <div className="container-fluid mt-4">
+        <div className="container-fluid mt-4 hero-inner-sec">
             <div className="row">
                 <div className="col-md-11 mx-auto title">
                     <h1 className="text-center mb-5">Explore Our Best Courses</h1>
                     <p>We found 42 courses available for you</p>
                 </div>
-                <div className="col-md-9 px-5">
+                <div className="col-md-9 px-3">
                     <ul>
                         {
                             course.map((course) => <SingleCourse course={course}></SingleCourse>)

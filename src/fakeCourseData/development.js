@@ -6,7 +6,9 @@ var development =
             "author": "jhon tylor",
             "email": "jhon@tylor20.gmail.com",
             "description": "Master The Complete WordPress - Build any Dynamic WordPress Website without Programming with WordPress Custom Post types",
-            "level": "intermediate",
+            "level": "All",
+            "lecture": 362,
+            "hours": 30,
             "rating": 4.4,
             "address": {
               "street": "Kulas Light",
@@ -29,6 +31,9 @@ var development =
             "author": "Andraw williamson",
             "email": "Andrawwilliam20@gmail.com",
             "description": "In 2020, build a beautiful responsive Wordpress site that looks great on all devices. No experience required.",
+            "level": "Beginner",
+            "lecture": 220,
+            "hours": 20,
             "rating": 4.6,
             "address": {
               "street": "tokyo",
@@ -51,6 +56,9 @@ var development =
             "author": "Maximilian Schwarzmüller",
             "email": "maxmillian202@gmail.com",
             "description": "Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS.",
+            "level": "Intermediate",
+            "lecture": 122,
+            "hours": 20,            
             "rating": 4.7,
             "address": {
               "street": "russian",
@@ -73,6 +81,9 @@ var development =
             "author": "Brad schiff",
             "email": "Bradschiff30@gmail.com",
             "description": "Launch a career as a web designer by learning HTML5, CSS3, responsive design, Sass and more!",
+            "level": "All",
+            "lecture": 33,
+            "hours": 2,            
             "rating": 4.6,
             "address": {
               "street": "ney work",
@@ -95,6 +106,9 @@ var development =
             "author": "Isaac rudansky",
             "email": "rudansky30@gmail.com",
             "description": "Triple Your Conversion Rate With These Landing Page Design Principles & Build A Landing Page From Scratch With No Code",
+            "level": "All",
+            "lecture": 104,
+            "hours": 6,            
             "rating": 4.4,
             "address": {
               "street": "new work",
@@ -117,6 +131,9 @@ var development =
             "author": "Jonas Schmedtmann",
             "email": "jonas2020@gmail.com",
             "description": "Master JavaScript with the most complete course! Projects, challenges, quizzes, JavaScript ES6+, OOP, AJAX, Webpack",
+            "level": "All",
+            "lecture": 109,
+            "hours": 10,            
             "rating": 4.8,
             "address": {
               "street": "beijing",

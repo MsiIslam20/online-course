@@ -6,6 +6,9 @@ var design =[
         "email": "dorubrain99@gmail.com",
         "description": "Master Photoshop CC 2020 without any previous knowledge with this easy-to-follow course",
         "rating": 4.6,
+        "level": "Beginner",
+        "lecture": 232,
+        "hours": 10,
         "address": {
           "street": "beijing",
           "city": "Japan",
@@ -28,6 +31,9 @@ var design =[
         "email": "hussey3099@gmail.com",
         "description": "Become a Full-Stack Developer - Learn Everything from Design to Front & Back-End Programming.",
         "rating": 4.4,
+        "level": "Master",
+        "lecture": 100,
+        "hours": 12,
         "address": {
           "street": "new york",
           "city": "united state",
@@ -50,6 +56,9 @@ var design =[
         "email": "supriyokundu30@gmail.com",
         "description": "Learn Web Designing in Photoshop step by step (Over 20 PSD Files, 3 Mega Web Design Projects Included)",
         "rating": 3.9,
+        "level": "All",
+        "lecture": 111,
+        "hours": 9,        
         "address": {
           "street": "new york",
           "city": "united state",
@@ -72,6 +81,9 @@ var design =[
         "email": "waltescot20@gmail.com",
         "description": "Build professional web & app designs using Adobe Illustrator CC",
         "rating": 4.1,
+        "level": "All",
+        "lecture": 109,
+        "hours": 7,
         "address": {
           "street": "new york",
           "city": "united state",
@@ -94,6 +106,9 @@ var design =[
         "email": "vandeput2019@gmail.com",
         "description": "Dive in the world of Visual Effects in this exciting and themed hands-on course",
         "rating": 4.3,
+        "level": "Beginner",
+        "lecture": 321,
+        "hours": 25,        
         "address": {
           "street": "california",
           "city": "united kingdom",
@@ -116,6 +131,9 @@ var design =[
         "email": "progression@yahoo.com",
         "description": "We supply the footage and audio! Learn how to edit an engaging video using Adobe Premiere Pro CC from start to finish",
         "rating": 4.7,
+        "level": "All",
+        "lecture": 111,
+        "hours": 11,        
         "address": {
           "street": "california",
           "city": "united kingdom",
