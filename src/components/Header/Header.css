@@ -1,0 +1,28 @@
+.header{
+    background: #ffffff;
+    padding: 10px 100px;
+    display: flex;
+    box-shadow: 0 3px 9px rgba(0,0,0,.05);
+}
+.header img{
+    height: 40px;
+    padding-top: 10px;
+}
+.menu{
+    width: 100%;
+    text-align: right;
+}
+.menu ul{
+    margin-bottom: 0;
+}
+.header ul{
+    list-style: none;
+    margin-bottom: 0;
+}
+.header ul li{
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 15px;
+}
