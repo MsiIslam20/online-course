@@ -24,12 +24,12 @@ const Course = () => {
                     <h1 className="text-center mb-5">Explore Our Best Courses</h1>
                     <p>We found 42 courses available for you</p>
                 </div>
-                <div className="col-md-9 px-2">
-                    <ul>
+                <div className="col-md-9 pl-5">
+                    <div>
                         {
                             course.map((course) => <SingleCourse key={course.id} course={course} handlePurchase={handlePurchase}></SingleCourse>)
                         }
-                    </ul>
+                    </div>
                 </div>
                 <div className="col-md-3">
                     <Purchase purchaseCourse={purchaseCourse}></Purchase>
