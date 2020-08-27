@@ -23,7 +23,7 @@ var others =
             "language": "English",
             "students": 116589,
             "price": 222.99,
-            "image": "http://suprkit.com/assets/images/other/course-13.jpg",
+            "image": "https://img-a.udemycdn.com/course/480x270/1091520_9b90_10.jpg",
           },
           {
             "id": 14,
@@ -48,7 +48,7 @@ var others =
             "language": "English",
             "students": 15290,
             "price": 122.99,
-            "image": "http://suprkit.com/assets/images/other/course-14.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-7.jpg",
           }, 
           {
             "id": 15,
@@ -73,7 +73,7 @@ var others =
             "language": "English",
             "students": 31225,
             "price": 119.99,
-            "image": "http://suprkit.com/assets/images/other/course-15.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-2.jpg",
           },   
           {
             "id": 16,
@@ -98,7 +98,7 @@ var others =
             "language": "English",
             "students": 20879,
             "price": 89.99,
-            "image": "http://suprkit.com/assets/images/other/course-16.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-1.jpg",
           }, 
           {
             "id": 17,
@@ -123,7 +123,7 @@ var others =
             "language": "English",
             "students": 34529,
             "price": 134.99,
-            "image": "http://suprkit.com/assets/images/other/course-17.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-4.jpg",
           }, 
           {
             "id": 18,
@@ -149,7 +149,32 @@ var others =
             "students": 271118,
             "price": 159.99,
             "image": "https://img-a.udemycdn.com/course/480x270/238934_4d81_5.jpg",
-          },                                                
+          },   
+          {
+            "id": 20,
+            "title": "How to get your kids to cooperate-even if they don't want to",
+            "author": "Robin Booth",
+            "email": "robinhall2@gmail.com",
+            "description": "Avoid the shouting, threats, and bribes with these Emotionally Intelligent skills and boundaries - (toddler to teen).",
+            "rating": 4.4,
+            "level": "Intermediate",
+            "lecture": 30,
+            "hours": 5,
+            "address": {
+              "street": "dhaka",
+              "city": "Bangladesh",
+              "geo": {
+                "lat": "-47.3159",
+                "lng": "21.1496"
+              }
+            },
+            "phone": "223-456-789-00",
+            "website": "robinhallmusic.com",
+            "language": "English",
+            "students": 9987,
+            "price": 89.99,
+            "image": "https://img-a.udemycdn.com/course/480x270/319042_97b9_7.jpg",
+          }                                             
     ];
 
 export default others;

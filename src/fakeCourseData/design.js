@@ -22,7 +22,7 @@ var design =[
         "language": "English",
         "students": 111920,
         "price": 129.99,
-        "image": "http://suprkit.com/assets/images/other/course-7.jpg",
+        "image": "http://suprkit.com/assets/images/other/course-13.jpg",
       }, 
       {
         "id": 8,
@@ -47,7 +47,7 @@ var design =[
         "language": "English",
         "students": 65790,
         "price": 134.99,
-        "image": "http://suprkit.com/assets/images/other/course-8.jpg",
+        "image": "http://suprkit.com/assets/images/other/course-14.jpg",
       }, 
       {
         "id": 9,
@@ -72,7 +72,7 @@ var design =[
         "language": "English",
         "students": 112790,
         "price": 99.99,
-        "image": "http://suprkit.com/assets/images/other/course-9.jpg",
+        "image": "https://img-a.udemycdn.com/course/480x270/1430746_2f43_9.jpg",
       },  
       {
         "id": 10,
@@ -97,7 +97,7 @@ var design =[
         "language": "English",
         "students": 444790,
         "price": 299.99,
-        "image": "http://suprkit.com/assets/images/other/course-10.jpg",
+        "image": "http://suprkit.com/assets/images/other/course-3.jpg",
       },   
       {
         "id": 11,
@@ -122,7 +122,7 @@ var design =[
         "language": "English",
         "students": 1176,
         "price": 99.99,
-        "image": "http://suprkit.com/assets/images/other/course-10.jpg",
+        "image": "http://suprkit.com/assets/images/other/course-1.jpg",
       }, 
       {
         "id": 12,
@@ -147,8 +147,33 @@ var design =[
         "language": "English",
         "students": 5229,
         "price": 145.99,
-        "image": "http://suprkit.com/assets/images/other/course-12.jpg",
-      }                         
+        "image": "http://suprkit.com/assets/images/other/course-9.jpg",
+      },
+      {
+        "id": 19,
+        "title": "Photoshop Training: For Become Pro",
+        "author": "Saidul Islam",
+        "email": "saidulislam20@gmail.com",
+        "description": "Master Photoshop CC 2020 without any previous knowledge with this easy-to-follow course",
+        "rating": 4.4,
+        "level": "Beginner",
+        "lecture": 80,
+        "hours": 10,        
+        "address": {
+          "street": "comilla",
+          "city": "united kingdom",
+          "geo": {
+            "lat": "-47.3159",
+            "lng": "21.1496"
+          }
+        },
+        "phone": "123-456-789-00",
+        "website": "smbondfb.com",
+        "language": "English",
+        "students": 22900,
+        "price": 120.50,
+        "image": "https://img-a.udemycdn.com/course/480x270/1046722_cbd7_2.jpg",
+      }                        
 ]
 
 export default design;

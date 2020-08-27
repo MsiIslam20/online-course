@@ -23,7 +23,7 @@ var development =
             "language": "English",
             "students": 4366,
             "price": 134.99,
-            "image": "http://suprkit.com/assets/images/other/course-1.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-15.jpg",
           },
           {
             "id": 2,
@@ -48,7 +48,7 @@ var development =
             "language": "English",
             "students": 62300,
             "price": 199.99,
-            "image": "http://suprkit.com/assets/images/other/course-2.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-16.jpg",
           },
           {
             "id": 3,
@@ -73,7 +73,7 @@ var development =
             "language": "English",
             "students": 41668,
             "price": 99.99,
-            "image": "http://suprkit.com/assets/images/other/course-3.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-12.jpg",
           },
           {
             "id": 4,
@@ -98,7 +98,7 @@ var development =
             "language": "English",
             "students": 45120,
             "price": 129.99,
-            "image": "http://suprkit.com/assets/images/other/course-4.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-18.jpg",
           },  
           {
             "id": 5,
@@ -123,7 +123,7 @@ var development =
             "language": "English",
             "students": 35400,
             "price": 199.99,
-            "image": "http://suprkit.com/assets/images/other/course-5.jpg",
+            "image": "http://suprkit.com/assets/images/other/course-17.jpg",
           },   
           {
             "id": 6,
@@ -148,7 +148,7 @@ var development =
             "language": "English",
             "students": 339900,
             "price": 149.99,
-            "image": "http://suprkit.com/assets/images/other/course-6.jpg",
+            "image": "https://img-a.udemycdn.com/course/480x270/1463348_52a4_2.jpg",
           }                                    
     ];
 

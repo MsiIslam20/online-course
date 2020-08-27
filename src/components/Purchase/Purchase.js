@@ -7,7 +7,6 @@ import './Purchase.css';
 const Purchase = (props) => {
 
     const purchaseCart = props.purchaseCourse;
-
     const totalAmount = purchaseCart.reduce( (total, item) => total + item.price , 0)
 
     return (

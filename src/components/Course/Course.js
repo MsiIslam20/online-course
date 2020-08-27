@@ -20,7 +20,7 @@ const Course = () => {
     return (
         <div className="container-fluid mt-4 hero-inner-sec">
             <div className="row">
-                <div className="col-md-11 mx-auto title">
+                <div className="col-md-12 pl-4 title">
                     <h1 className="text-center mb-5">Explore Our Best Courses</h1>
                     <p>We found 42 courses available for you</p>
                 </div>
